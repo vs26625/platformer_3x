@@ -310,7 +310,11 @@ const GameSetup = {
           "Fun Fact #6" : "Mario's original name was Jumpman.",
           "Fun Fact #7" : "March 10th is known as Mario Day because the abbreviation for March 10th (Mar10) looks like Mario.",
           "Fun Fact #8" : " Mario was originally a carpenter, not a plumber.",
-          "Fun Fact #9" : " There are actually lyrics to the Mario theme song."
+          "Fun Fact #9" : " There are actually lyrics to the Mario theme song.",
+          "Fun Fact #10" : " Mario is known for his catchphrase It's-a me, Mario! which has become synonymous with the character..",
+          "Fun Fact #11" : "Mario is a plumber by profession, although in various games, he takes on different roles such as a doctor, kart racer, and tennis player.",
+          "Fun Fact #12" : "The character Princess Peach, often portrayed as Mario's love interest, was originally named Princess Toadstool in North America.",
+          "Fun Fact #13" : "The Super Mario series has sold over 600 million copies worldwide, making it one of the best-selling video game franchises of all time."
           }
         function generate(){
           var nums = Object.keys(fun_facts);
